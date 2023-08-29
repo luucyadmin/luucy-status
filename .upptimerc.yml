@@ -9,6 +9,10 @@ sites:
     url: https://app.luucy.ch/api/version
   - name: LUUCY Data
     url: https://cdndata-01.luucy.ch/terrain/sa/layer.json
+  - name: "WMS: SwissImage"
+    url: https://wms.geo.admin.ch/?SERVICE=WMS&REQUEST=GetMap&VERSION=1.3.0&LAYERS=ch.swisstopo.swissimage&STYLES=default&CRS=EPSG:2056&BBOX=2550000,1060000,2660000,1140000&WIDTH=800&HEIGHT=582&FORMAT=image/png
+  - name: "WMS: ÖREB"
+    url: https://wmscache1001.luucy.ch/?service=WMS&version=1.1.1&request=GetMap&styles=&format=image%2Fjpeg&layers=ch_basemap_tlm_av_3&bbox=8.997459411621106%2C46.92157745361328%2C8.997802734374998%2C46.92192077636719&width=256&height=256&srs=EPSG%3A4326
 
 assignees:
   - n0rdlicht
