@@ -10,6 +10,9 @@ sites:
   - name: LUUCY Data
     url: https://cdndata-01.luucy.ch/terrain/sa/layer.json
 
+assignees:
+  - n0rdlicht
+
 status-website:
   cname: status.luucy.ch
   logoUrl: https://raw.githubusercontent.com/luucyadmin/luucy-status/master/assets/luucy_logo_black-png.svg
