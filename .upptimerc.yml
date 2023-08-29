@@ -4,12 +4,17 @@ repo: luucy-status # The name of this repository
 
 sites:
   - name: LUUCY
-    url: https://app.luucy.ch
+    url: https://app.luucy.ch/login
+  - name: LUUCY API
+    url: https://app.luucy.ch/api/version
+  - name: LUUCY Data
+    url: https://cdndata-01.luucy.ch/terrain/sa/layer.json
 
 status-website:
   cname: status.luucy.ch
-  baseUrl: /luucy-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/luucyadmin/luucy-status/master/assets/luucy_logo_black-png.svg
+  favicon: https://app.luucy.ch/favicon.ico
+  themeUrl: https://status.luucy.ch/luucy_upptime.css
   name: LUUCY
   introTitle: ""
   introMessage: This is a status page for LUUCY
