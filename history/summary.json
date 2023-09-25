@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 766,
-    "timeDay": 617,
-    "timeWeek": 841,
-    "timeMonth": 766,
-    "timeYear": 766,
+    "time": 763,
+    "timeDay": 637,
+    "timeWeek": 778,
+    "timeMonth": 763,
+    "timeYear": 763,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 354,
-    "timeDay": 109,
-    "timeWeek": 141,
-    "timeMonth": 354,
-    "timeYear": 354,
+    "time": 348,
+    "timeDay": 127,
+    "timeWeek": 135,
+    "timeMonth": 348,
+    "timeYear": 348,
     "dailyMinutesDown": {}
   },
   {
@@ -40,18 +40,20 @@
     "url": "https://cdndata-01.luucy.ch/terrain/sa/layer.json",
     "icon": "https://icons.duckduckgo.com/ip3/cdndata-01.luucy.ch.ico",
     "slug": "luucy-data",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 360,
-    "timeDay": 342,
-    "timeWeek": 365,
+    "timeDay": 362,
+    "timeWeek": 344,
     "timeMonth": 360,
     "timeYear": 360,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-25": 1
+    }
   },
   {
     "name": "WMS: SwissImage",
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 789,
-    "timeDay": 389,
-    "timeWeek": 888,
-    "timeMonth": 789,
-    "timeYear": 789,
+    "time": 774,
+    "timeDay": 345,
+    "timeWeek": 717,
+    "timeMonth": 774,
+    "timeYear": 774,
     "dailyMinutesDown": {}
   },
   {
@@ -76,17 +78,19 @@
     "url": "https://wmscache1001.luucy.ch/?service=WMS&version=1.1.1&request=GetMap&styles=&format=image%2Fjpeg&layers=ch_basemap_tlm_av_3&bbox=8.997459411621106%2C46.92157745361328%2C8.997802734374998%2C46.92192077636719&width=256&height=256&srs=EPSG%3A4326",
     "icon": "https://icons.duckduckgo.com/ip3/wmscache1001.luucy.ch.ico",
     "slug": "wms-oe-reb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 800,
-    "timeDay": 524,
-    "timeWeek": 759,
-    "timeMonth": 800,
-    "timeYear": 800,
-    "dailyMinutesDown": {}
+    "time": 798,
+    "timeDay": 749,
+    "timeWeek": 726,
+    "timeMonth": 798,
+    "timeYear": 798,
+    "dailyMinutesDown": {
+      "2023-09-25": 0
+    }
   }
 ]
