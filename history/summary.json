@@ -40,10 +40,10 @@
     "url": "https://cdndata-01.luucy.ch/terrain/sa/layer.json",
     "icon": "https://icons.duckduckgo.com/ip3/cdndata-01.luucy.ch.ico",
     "slug": "luucy-data",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.19%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.18%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
     "time": 361,
@@ -52,6 +52,7 @@
     "timeMonth": 361,
     "timeYear": 361,
     "dailyMinutesDown": {
+      "2023-09-28": 0,
       "2023-09-26": 78,
       "2023-09-25": 4
     }
@@ -79,9 +80,9 @@
     "url": "https://wmscache1001.luucy.ch/?service=WMS&version=1.1.1&request=GetMap&styles=&format=image%2Fjpeg&layers=ch_basemap_tlm_av_3&bbox=8.997459411621106%2C46.92157745361328%2C8.997802734374998%2C46.92192077636719&width=256&height=256&srs=EPSG%3A4326",
     "icon": "https://icons.duckduckgo.com/ip3/wmscache1001.luucy.ch.ico",
     "slug": "wms-oe-reb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
@@ -91,6 +92,7 @@
     "timeMonth": 794,
     "timeYear": 794,
     "dailyMinutesDown": {
+      "2023-09-28": 0,
       "2023-09-26": 78,
       "2023-09-25": 4
     }
