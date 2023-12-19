@@ -1,7 +1,7 @@
 url: https://app.luucy.ch/login
-status: down
-code: 503
-responseTime: 480
-lastUpdated: 2023-12-19T11:59:38.911Z
+status: up
+code: 200
+responseTime: 582
+lastUpdated: 2023-12-19T12:36:48.234Z
 startTime: 2023-08-29T07:30:14.843Z
 generator: Upptime <https://github.com/upptime/upptime>
