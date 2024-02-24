@@ -1,7 +1,7 @@
 url: https://wmscache1001.luucy.ch/?service=WMS&version=1.1.1&request=GetMap&styles=&format=image%2Fjpeg&layers=ch_basemap_tlm_av_3&bbox=8.997459411621106%2C46.92157745361328%2C8.997802734374998%2C46.92192077636719&width=256&height=256&srs=EPSG%3A4326
 status: up
 code: 200
-responseTime: 901
-lastUpdated: 2024-02-23T23:11:49.399Z
+responseTime: 754
+lastUpdated: 2024-02-24T23:14:00.428Z
 startTime: 2023-08-29T08:46:20.678Z
 generator: Upptime <https://github.com/upptime/upptime>
