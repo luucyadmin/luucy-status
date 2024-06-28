@@ -9,7 +9,7 @@ sites:
   - name: LUUCY SwissAlti
     url: https://cdndata-01.luucy.ch/terrain/sa/layer.json
   - name: LUUCY SwissBuildings 2.0
-    url: https://cdndata-01.luucy.ch/3d-objects/sb20/tileset.json
+    url: https://cdndata-01.luucy.ch/3dobjects/sb20/tileset.json
   - name: "WMS: SwissImage"
     url: https://wms.geo.admin.ch/?SERVICE=WMS&REQUEST=GetMap&VERSION=1.3.0&LAYERS=ch.swisstopo.swissimage&STYLES=default&CRS=EPSG:2056&BBOX=2550000,1060000,2660000,1140000&WIDTH=800&HEIGHT=582&FORMAT=image/png
   - name: "WMS: ÖREB"
