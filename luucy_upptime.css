@@ -24,3 +24,11 @@
   --graph-opacity: 1;
   --graph-filter: none;
 }
+
+article.graph {
+  --background: none !important;
+}
+
+form.f.r {
+    display: none;
+}
