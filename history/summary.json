@@ -65,19 +65,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdndata-01.luucy.ch.ico",
     "slug": "luucy-swiss-buildings-2-0",
     "status": "up",
-    "uptime": "5.80%",
-    "uptimeDay": "5.80%",
-    "uptimeWeek": "5.80%",
-    "uptimeMonth": "5.80%",
-    "uptimeYear": "5.80%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-06-28": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WMS: SwissImage",
