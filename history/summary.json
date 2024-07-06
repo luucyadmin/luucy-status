@@ -82,9 +82,9 @@
     "url": "https://wms.geo.admin.ch/?SERVICE=WMS&REQUEST=GetMap&VERSION=1.3.0&LAYERS=ch.swisstopo.swissimage&STYLES=default&CRS=EPSG:2056&BBOX=2550000,1060000,2660000,1140000&WIDTH=800&HEIGHT=582&FORMAT=image/png",
     "icon": "https://icons.duckduckgo.com/ip3/wms.geo.admin.ch.ico",
     "slug": "wms-swiss-image",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,7 +93,9 @@
     "timeWeek": 582,
     "timeMonth": 765,
     "timeYear": 789,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-06": 0
+    }
   },
   {
     "name": "WMS: ÖREB",
