@@ -82,19 +82,19 @@
     "url": "https://wms.geo.admin.ch/?SERVICE=WMS&REQUEST=GetMap&VERSION=1.3.0&LAYERS=ch.swisstopo.swissimage&STYLES=default&CRS=EPSG:2056&BBOX=2550000,1060000,2660000,1140000&WIDTH=800&HEIGHT=582&FORMAT=image/png",
     "icon": "https://icons.duckduckgo.com/ip3/wms.geo.admin.ch.ico",
     "slug": "wms-swiss-image",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 804,
-    "timeDay": 3083,
-    "timeWeek": 1224,
-    "timeMonth": 909,
-    "timeYear": 804,
+    "time": 802,
+    "timeDay": 2150,
+    "timeWeek": 1119,
+    "timeMonth": 891,
+    "timeYear": 802,
     "dailyMinutesDown": {
-      "2024-07-07": 0
+      "2024-07-07": 12
     }
   },
   {
