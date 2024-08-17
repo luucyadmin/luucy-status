@@ -46,9 +46,9 @@
     "url": "https://cdndata-01.luucy.ch/terrain/sa/layer.json",
     "icon": "https://icons.duckduckgo.com/ip3/cdndata-01.luucy.ch.ico",
     "slug": "luucy-swiss-alti",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,7 +57,9 @@
     "timeWeek": 337,
     "timeMonth": 387,
     "timeYear": 399,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-17": 0
+    }
   },
   {
     "name": "LUUCY SwissBuildings 2.0",
